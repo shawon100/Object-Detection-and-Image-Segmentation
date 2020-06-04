@@ -6,6 +6,9 @@ Object Detection and Image Segmentation with few lines of code using PixelLib li
 
 https://www.youtube.com/watch?v=vU8LK2ZQOHY
 
+## Kaggle Competition Notebook
+
+https://www.kaggle.com/shawon10/google-object-detection-by-pixellib-mask-rcnn
 
 ## Run Code from Colab
 
