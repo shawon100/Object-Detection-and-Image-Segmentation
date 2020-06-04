@@ -7,7 +7,8 @@ Object Detection and Image Segmentation with few lines of code using PixelLib li
 
 ## Object Detection and Image Segmentation
 
-<img src="image_new.jpeg" width="600" height="300"/><br><br>
 <img src="object_detection.jpg" width="600" height="300"/><br><br>
+<img src="image_new.jpeg" width="600" height="300"/><br><br>
+
 
 
