@@ -4,12 +4,12 @@ Object Detection and Image Segmentation with few lines of code using PixelLib li
 
 ## Video Tutorial
 
-Object Detection on Image: https://www.youtube.com/watch?v=vU8LK2ZQOHY
+Object Detection on Image: https://www.youtube.com/watch?v=vU8LK2ZQOHY <br>
 Object Detection on Video: https://www.youtube.com/watch?v=G7FZu0-q0j0
 
 ## Kaggle Competition Notebook
 
-Image: https://www.kaggle.com/shawon10/google-object-detection-by-pixellib-mask-rcnn
+Image: https://www.kaggle.com/shawon10/google-object-detection-by-pixellib-mask-rcnn <br>
 Video: https://www.kaggle.com/shawon10/object-detection-from-a-traffic-video
 
 
